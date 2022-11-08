@@ -18,7 +18,7 @@
                     <p class=form-control>Subham</p>
                   </div>
                   <div class="col-md-6"><label class="labels">Surname</label><p class=form-control>
-                    Shrestha</p></div>
+                    Govinda</p></div>
               </div>
               <div class="row mt-3">
                   <div class="col-md-12"><label class="labels">Mobile Number</label><p class=form-control>
